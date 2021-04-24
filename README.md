@@ -1,2 +1,2 @@
-# 6x6_Sudoku
+# 6x6 Sudoku
 basic sudoku
